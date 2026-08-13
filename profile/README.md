@@ -62,16 +62,16 @@ The stack adapts to the problem.
 
 ## ◼ Projects ✦
 
-| Project                                                                 | Description                                                             |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **[Computtite](https://computtite.sxnnysideproject.com/en)**            | Computing asset management for desktop, with local and cloud workflows. |
-| **[Animoria](https://extensions.sxnnysideproject.com/en/animoria)**     | Visual asset governance for development workflows.                      |
-| **[Debuggatha](https://extensions.sxnnysideproject.com/en/debuggatha)** | Developer tooling for documenting and understanding code.               |
-| **[SEI](https://extensions.sxnnysideproject.com/en/sei)**               | An icon system designed for the Sxnnyside ecosystem.                    |
-| **[SxnnyErgo](https://extensions.sxnnysideproject.com/en/sxnnyergo)**   | Developer ergonomics utilities for everyday work.                       |
+| Project                                                                 | Description                                                                                                                                                                                   |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Computtite](https://computtite.sxnnysideproject.com/en)**            | A free desktop IT asset management platform for tracking computers, phones, servers, licenses, and more — working locally or through the cloud, without subscriptions.                        |
+| **[Animoria](https://extensions.sxnnysideproject.com/en/animoria)**     | A Visual Asset Governance DevTool that discovers, audits, previews, and traces animated and static assets across your workspace — because `assets/` folders have memories too.                |
+| **[Debuggatha](https://extensions.sxnnysideproject.com/en/debuggatha)** | An engineering reviewer for MCP, CLI, and VS Code that reads your repository before judging your code, then ties every finding to an actual rule, convention, standard, or piece of evidence. |
+| **[SEI](https://extensions.sxnnysideproject.com/en/sei)**               | A curated, platform-agnostic SVG icon system where every icon exists because a real interface needed it. Quantity is not the point. Clarity is.                                               |
+| **[SxnnyErgo](https://extensions.sxnnysideproject.com/en/sxnnyergo)**   | The SwiftUI ergonomics layer Apple didn't ship — focused APIs that reduce boilerplate and make everyday SwiftUI code read the way it should.                                                  |
 
 <sub>
-More projects, experiments, and repositories may live here as they grow.
+These are some of the projects currently representing Sxnnyside Project. The repositories themselves remain the source of truth for each project's status and documentation.
 </sub>
 
 <br>
